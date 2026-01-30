@@ -17,7 +17,7 @@ Improving advanced machine learning techniques, system design, and writing effic
 
 
 📫 **How to Reach Me:**  
-Email: sharjeel.hassank29@gmail.com  
+Email:    sharjeel.hassank29@gmail.com  
 LinkedIn: https://www.linkedin.com/in/sharjeel-hassan-khan-7138a7245/
 
 
