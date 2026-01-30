@@ -7,7 +7,7 @@
 Building academic and personal projects focused on AI, machine learning models, and full-stack web applications.
 
 🌱 **Currently Learning:**  
-Machine Learning, Natural Language Processing, Data Analysis with Python, and modern web technologies.
+Machine Learning, Data Analysis, and  web development.
 
 👯 **Looking to Collaborate On:**  
 Open-source projects, AI/ML applications, and impactful software solutions that solve real-world problems.
