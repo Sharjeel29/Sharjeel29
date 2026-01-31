@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🎓 BSc Computer Science & Engineering Student<br>💡 Passionate about Machine Learning, Data Science, and Web Development<br><br><br>🔭 **Currently Working On:**  <br>Academic and personal projects in machine learning and web development.<br><br>🌱 **Currently Learning:**  <br>Machine learning, data analysis, and modern web technologies.<br><br>👯 **Looking to Collaborate On:**  <br>Open-source and AI/ML-based projects.<br><br>🤔 **Seeking Help With:**  <br>Improving machine learning skills and writing better, efficient code.</p>
+<p align="left">🎓 BSc Computer Science & Engineering Student<br>💡 Passionate about Machine Learning, Data Science, and Web Development<br><br><br>🔭 ** Currently Working On: **  <br>Academic and personal projects in machine learning and web development.<br><br>🌱 ** Currently Learning: **  <br>Machine learning, data analysis, and modern web technologies.<br><br>👯 ** Looking to Collaborate On: **  <br>Open-source and AI/ML-based projects.<br><br>🤔 ** Seeking Help With: **  <br>Improving machine learning skills and writing better, efficient code.</p>
 
 ###
 
