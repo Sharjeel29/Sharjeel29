@@ -107,5 +107,9 @@
 
 ###
 
+###
 
+<img src="https://raw.githubusercontent.com/Sharjeel29/Sharjeel29/output/snake.svg" alt="Snake animation" />
+
+###
 ###
